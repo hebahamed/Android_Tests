@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_tests</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_image_intent_text">Pick photo</string>
+
+</resources>
